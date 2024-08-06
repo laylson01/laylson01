@@ -1,12 +1,11 @@
-### Olá Mundo
+### Hellow.
 
 
 - 🔭 Currently, I'm working as a Network Supervisor at NOS
 - 🌱 Currently, I'm learning Mobile Development 
-- 🤔 I’m looking for help with ...
-- 
+-  
 
-## README.md em contrução
+## README.md
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lyn-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
