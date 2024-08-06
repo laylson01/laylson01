@@ -2,8 +2,7 @@
 
 
 - 🔭 Currently, I'm working as a Network Supervisor at NOS
-- 🌱 Currently, I'm learning Mobile Development 
--  
+- 🌱 Currently, I'm learning Mobile Development
 
 ## README.md
 
