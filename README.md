@@ -12,7 +12,7 @@ Contributing to open source projects, where I also serve as a translator for Eng
 To collaborate on exciting projects, contribute to the open source community, and refine my coding skills.
 To connect with other developers, share knowledge, and learn from the community.
 
-## README.md
+## Tech & Tools
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lyn-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
