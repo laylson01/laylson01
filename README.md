@@ -6,6 +6,7 @@ Passionate about software development with a strong focus on Python and Django f
 
 Building projects that combine the power of Python and Django with modern frontend frameworks.
 Contributing to open source projects, where I also serve as a translator for English and Brazilian Portuguese (ENG <> PT-BR).
+
 💡 Why I’m Here:
 
 To collaborate on exciting projects, contribute to the open source community, and refine my coding skills.
