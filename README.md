@@ -1,8 +1,15 @@
 ### Hellow.
 
+Passionate about software development with a strong focus on Python and Django for backend, along with frontend technologies. As a software engineering student, I’m continuously expanding my skills and knowledge in full-stack development.
 
-- 🔭 Currently, I'm working as a Network Supervisor at NOS
-- 🌱 Currently, I'm learning Python
+🚀 Current Focus:
+
+Building projects that combine the power of Python and Django with modern frontend frameworks.
+Contributing to open source projects, where I also serve as a translator for English and Brazilian Portuguese (ENG <> PT-BR).
+💡 Why I’m Here:
+
+To collaborate on exciting projects, contribute to the open source community, and refine my coding skills.
+To connect with other developers, share knowledge, and learn from the community.
 
 ## README.md
 
