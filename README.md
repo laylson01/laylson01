@@ -5,7 +5,7 @@ Engenheiro de Planejamento de Redes | Automação | Python | Linux
 </p>
 
 <p align="center">
-💡 Apaixonado por redes, automação e transformação digital
+💡 Apaixonado por redes, automação e Linux
 </p>
 
 ---
