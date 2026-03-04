@@ -1,11 +1,11 @@
-<h1 align="center">👋 Olá, eu sou Laylson da C. Silva</h1>
+<h1 align="center">👋 Olá </h1>
 
 <p align="center">
-Engenheiro de Planejamento de Redes | Automação | Python | Linux
+Engenheiro de Planejamento de Redes 
 </p>
 
 <p align="center">
-💡 Apaixonado por redes, automação e transformação digital
+💡 Apaixonado por Redes | Automação | Python | Linux
 </p>
 
 ---
