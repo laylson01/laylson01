@@ -76,31 +76,12 @@ Engenheiro de Planejamento de Redes | Automação | Python | Linux
 
 ---
 
-# 📈 Estatísticas do GitHub
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🚀 Atualmente estudando
 
 🐧 Linux  
 🌐 Arquitetura de redes  
 🔐 Segurança da informação  
 ⚡ Automação de infraestrutura  
-
----
-
-# 🤝 Conecte-se comigo
-
-💼 LinkedIn  
-📧 Email  
 
 ---
 
